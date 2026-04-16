@@ -1,0 +1,4 @@
+flask==3.0.0
+werkzeug==3.0.0
+# tensorflow==2.15.0 # For when the model is transferred
+# pillow==10.2.0    # For image processing
